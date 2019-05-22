@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MovieDatabase.AddMovie">
+    <StackLayout Margin="10">
+        <Entry x:Name ="movieName" Placeholder="Enter Movie Name"/>
+            <Entry x:Name="movieDirector" Placeholder="Enter Movie Director"/>
+            <Button Text="Save"
+                Clicked="Button_Clicked"/>
+        </StackLayout>
+</ContentPage>

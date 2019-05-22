@@ -1,0 +1,1 @@
+C:\Users\liamm\source\repos\MovieDatabase\MovieDatabase\MovieDatabase.UWP\MovieDatabase.UWP.csproj;x86
